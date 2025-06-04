@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Junrong, a current CS undergraduate @NUS
 - 👀 I’m interested in ML/AI/LLM
-- 🌱 I’m currently learning the basis of ML/LLM
+- 🌱 I’m currently learning the basics of RL/LLM
 - 📫 How to reach me: telegram: @Junrongyay, email: junrongmu@gmail.com/E1354441@u.nus.edu
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have 2 dogs (as shown on my profile pic <33)
